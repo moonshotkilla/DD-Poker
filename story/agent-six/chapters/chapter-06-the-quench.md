@@ -278,45 +278,91 @@ And then he felt it.
 
 The quench.
 
-It hit him like a drug, like a full-body euphoria that was more intense than anything he'd ever experienced. The itch was gone—not just gone, but replaced by something incredible. A sensation of perfect, crystalline satisfaction. Every nerve ending singing. His brain flooded with dopamine and endorphins, a chemical reward for violence efficiently executed.
+It started as warmth. Deep in his chest, right where the lattice hummed its constant song, a sensation of heat began to spread. Not burning—soothing. Like slipping into a hot bath after being frozen to the bone.
+
+The warmth radiated outward, flowing through his arms, his legs, his neck, his skull. Everywhere the Creep-6 lattice existed, it was lighting up, singing, celebrating.
+
+And then the chemistry hit.
+
+His brain flooded—a cascade of dopamine, serotonin, endorphins, all released simultaneously in quantities that shouldn't be possible. Jon's vision blurred. His knees went weak. The sensation was overwhelming, impossible to categorize as merely "pleasure." It was transcendent.
+
+Every nerve ending sang in perfect harmony.
+
+Every muscle relaxed into perfect contentment.
+
+Every thought crystallized into perfect clarity.
+
+The itch—that crawling, burning agony that had been building for hours—was gone. Not just silenced, but inverted. Where there had been pain, there was now ecstasy.
+
+Jon staggered, grabbed a pillar for support, his whole body trembling.
 
 It felt *good*.
 
 No. It felt *amazing*.
 
-Jon staggered, overwhelmed by the sensation. It was better than any combat high he'd ever experienced as a Delta operator. Better than any post-mission adrenaline crash. This was something else entirely—a biological reward system that had been engineered to make him crave violence.
+No. It felt... it felt *necessary*. Like breathing. Like water after days in the desert. Like every cell in his body had been screaming for this moment and now they were finally, gloriously satisfied.
 
-And it was working.
+Jon had been in combat before. He knew the post-firefight adrenaline dump, the shaky relief of being alive when you shouldn't be. He'd felt pride after successful missions. He'd felt the grim satisfaction of protecting his brothers.
+
+This wasn't any of those things.
+
+This was pure, biochemical pleasure—a reward system that had been engineered to make violence feel like the best thing that had ever happened to him.
+
+And God help him, it was working.
 
 "Jon?"
 
 Mira emerged from behind the car where she'd taken cover. She was staring at him, at the six unconscious operators scattered around the parking garage like broken toys.
 
+And Jon realized, with sudden, cold horror, what she must have seen.
+
+Not a soldier defending himself.
+
+Not a man doing what was necessary.
+
+She'd seen him *enjoying* it.
+
 "Jon, what... what did you do?"
 
-Jon looked at his hands. They were steady. Calm. His whole body was calm. The itch was silent. He felt clear, focused, powerful.
+He looked down at his hands. They were steady. Perfectly steady. No tremor, no guilt-shake, no adrenaline jitters. His whole body was calm, centered, satisfied. The itch was gone. He felt clear, focused, powerful.
 
 He felt like a god.
 
-"I didn't kill them," he said. His voice sounded distant, not quite his own. "They're alive. Injured, but alive."
+And that terrified him.
 
-"You took down six trained operators in less than ten seconds." Mira's voice was quiet, almost afraid. "You moved so fast I couldn't even see you. You weren't fighting them, Jon. You were... you were playing with them."
+"I didn't kill them," he said, and his voice sounded strange—distant, like it belonged to someone else. "They're alive. Injured, but alive. I controlled it."
 
-Was he? Jon tried to remember the fight, but it was already blurring, dreamlike. He remembered the clarity. The speed. The perfect, effortless violence.
+"Controlled it?" Mira took a step toward him, and Jon saw something in her expression he'd never seen before. Fear. Of him. "Jon, you took down six trained operators in less than ten seconds. You moved so fast I couldn't even track you. And your face..."
 
-And he remembered how good it felt.
+She trailed off.
 
-"We need to move," Jon said. "They called in a strike. We have maybe five minutes before this building is vapor."
+"What about my face?" Jon asked, though part of him didn't want to know the answer.
+
+"You were smiling," Mira said quietly. "While you were breaking their bones, while you were throwing them around like dolls, you were smiling. You weren't fighting them, Jon. You were... you were enjoying them."
+
+The words hit like a punch to the gut.
+
+He'd been smiling?
+
+Jon tried to remember. The fight was already blurring in his memory, dreamlike and fragmented. He remembered the clarity. The perfection of movement. The speed. The satisfying impact of fist against flesh, the precise snap of breaking bone, the efficient crumple of bodies falling.
+
+And yes. Yes, there had been pleasure. Not just the quench afterward, but *during*. The fight itself had felt good. Felt right.
+
+Had he been smiling?
+
+The thought made him sick.
+
+"We need to move," Jon said, his voice tight. "They called in a strike. We have maybe five minutes before this building is vapor."
 
 "Jon, look at me."
 
-He did. Mira's eyes were searching his face, looking for something.
+He didn't want to. Didn't want to see the fear in her eyes. But he forced himself to meet her gaze.
 
-"Are you okay?" she asked.
+"Are you okay?" she asked, and the question carried so much weight it almost crushed him.
 
-"I'm fine. Better than fine. The itch is gone."
+"I'm fine," he said automatically. Then, more honestly: "The itch is gone."
 
-"That's what I'm afraid of." Mira shouldered her backpack. "The itch is gone because you fed it. And now it knows what you like."
+"That's what I'm afraid of." Mira shouldered her backpack, but her eyes never left his. "The itch is gone because you fed it. And now it knows what you like. Now it knows how to make you hunt."
 
 ---
 
@@ -328,15 +374,29 @@ Jon and Mira found another safe house—this one a storage unit in an industrial
 
 Mira set up her laptop and started running her counter-surveillance protocols. Jon sat against the wall, staring at nothing.
 
-The quench was fading now, ebbing away like the tide, leaving behind a kind of hollowness. The euphoria was gone, replaced by something else.
+The quench was fading now, ebbing away like the tide. The warmth in his chest was cooling. The euphoria was draining from his system, leaving behind a kind of hollowness. A chemical crash after the high.
 
-Guilt.
+And in that hollowness, guilt poured in like water into a sinking ship.
 
-He'd broken bones. Shattered a man's sternum. Snapped wrists. Those operators were in hospitals now, being treated for injuries that would take months to heal.
+He'd broken bones. Shattered a man's sternum—he'd felt the ribs crack under his fist. Snapped wrists with casual backhands. Driven his knee into organs hard enough to rupture them. Those operators were in hospitals now, being treated for catastrophic injuries that would take months to heal. Some might never fully recover.
 
-He'd promised himself he wouldn't become what Kross wanted. That he'd stay in control. That he'd be the hero.
+Jon had served with men like them. Delta operators, SEALs, Rangers. Professionals who'd volunteered to serve their country, who'd been told they were hunting down a rogue asset, a traitor, a threat.
+
+They'd just been doing their jobs.
+
+And he'd brutalized them.
+
+Worse—he'd enjoyed it.
+
+Jon put his face in his hands. The memory was still there, vivid despite the dreamlike quality. The smile Mira had seen. He could almost feel it now—the muscles of his face pulling into that expression of pleasure while he broke human bodies like they were toys.
+
+He'd promised himself he wouldn't become what Kross wanted. That he'd stay in control. That he'd be the hero, the do-gooder, the man who brought everyone home.
 
 But it had felt so good.
+
+And that was the part that terrified him most. Not that he'd hurt people—he'd been a soldier, violence was part of the job. But the enjoyment. The pleasure. The craving for more that was already starting to build again.
+
+He'd crossed a line he hadn't even known existed. And he'd crossed it smiling.
 
 "I didn't kill them," Jon said quietly.
 
@@ -398,25 +458,59 @@ It felt like a lie.
 
 That night, alone in the dark storage unit while Mira slept, Jon felt the itch starting to return.
 
-It was faint now, barely noticeable, but it was there. A whisper under his skin. A suggestion in his mind.
+It was faint now, barely noticeable, but it was there. A whisper under his skin. A tickle in his nerves. A suggestion in his mind.
 
-*That felt good, didn't it? The fight. The speed. The power. You could do it again. Find another threat. Another target. Feel that clarity again.*
+*That felt good, didn't it?*
 
-Jon closed his eyes and tried to meditate, tried to center himself the way his Delta Force instructors had taught him.
+Jon sat with his back against the cold metal wall, staring at nothing in the darkness.
 
-But the meditation didn't work. His mind kept drifting back to the parking garage. To the feeling of perfect, controlled violence. To the quench.
+*The fight. The speed. The power.*
 
-He'd been a soldier for years. He'd seen combat. He'd killed people—enemies who were trying to kill him or his team. He'd never enjoyed it. It had been a necessary evil, a hard choice, a burden he carried.
+He remembered Target One—the way the man's tactical vest had deformed under his fist. The precise microsecond of resistance before the ceramic plate shattered. The satisfying crack of ribs. The man's expression behind the tactical mask, shock and pain and incomprehension.
+
+*You could do it again.*
+
+Target Six. The knife fighter. Jon remembered the man's eyes widening as he realized his wrist was caught in an unbreakable grip. The desperate strain in his muscles, trying with everything he had, and Jon holding him effortlessly. One-handed. The power differential so vast it was almost contemptuous.
+
+And the snap. The wet, organic sound of bone breaking.
+
+*Find another threat. Another target.*
+
+Jon closed his eyes and tried to meditate, tried to center himself the way his Delta Force instructors had taught him. Breathe in for four counts. Hold for four. Exhale for four. Empty the mind. Find the quiet center.
+
+But the meditation didn't work.
+
+His mind kept drifting back. Kept replaying moments. Not the whole fight—specific instants. The perfect ones. The moment his fist connected with the rifleman's helmet. The instant he caught the bullet on his chest and realized he was invincible. The split-second when Target Three's rifle sling snapped and the man's face registered pure terror.
+
+*Feel that clarity again. That perfection. You were alive, Jon. Really, truly alive.*
+
+He'd been a soldier for years. He'd seen combat. He'd killed people—insurgents, enemy combatants, men who were trying to kill him or his team. He'd carried that weight. Mourned them, even. The burden of taking life, even justified life, had been real.
+
+He'd never enjoyed it. It had been necessary. Professional. A hard choice in a hard world.
 
 But this was different.
 
-This time, he'd liked it.
+This time, he hadn't just defended himself. He'd reveled in it. The lattice had turned violence into pleasure, and his brain had learned the lesson perfectly.
 
-And the worst part—the part that terrified him more than anything Kross could do—was that a small, dark voice in the back of his mind was already looking forward to the next time.
+The quench had felt better than anything he'd ever experienced. Better than sex. Better than any drug. Better than the pride of a successful mission or the relief of bringing his team home safe.
 
-Jon "Jet" Rivian, the do-gooder who brought everyone home, sat in the darkness and wondered how long he had before that man disappeared completely.
+Violence had felt *perfect*.
 
-And was replaced by Agent Six, who brought everyone death.
+And the worst part—the part that terrified him more than anything Kross could do, more than Agent Zero, more than becoming someone's weapon—was that a small, dark voice in the back of his mind was already planning the next time.
+
+Already imagining what it would feel like. The itch building. The sweet agony of anticipation. And then the release. The glorious, transcendent release.
+
+*You know you want to.*
+
+Jon "Jet" Rivian, the do-gooder who brought everyone home, sat in the darkness and felt that voice getting louder.
+
+And wondered how long he had before it was the only voice left.
+
+Before the hero disappeared completely, and was replaced by Agent Six.
+
+Who brought everyone death.
+
+And smiled while doing it.
 
 ---
 
