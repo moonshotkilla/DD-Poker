@@ -214,13 +214,29 @@ And that scared him more than anything Kross had shown him.
 
 **Test Four: Cognitive Function**
 
-They moved to a smaller testing room, this one dominated by a holographic interface and a quantum computing terminal.
+They moved to a smaller testing room, this one dominated by a holographic interface and a quantum computing terminal. Jon was still riding the high from the combat test, the hum in his bones gradually settling from a roar to its usual resonant thrum.
 
-"The Creep-6 lattice doesn't just enhance your physical capabilities," Kross explained. "The graphene pathways in your neural tissue have turned your brain into a quantum processor. You can perform calculations and process information at speeds that were previously impossible for biological systems."
+"The Creep-6 lattice doesn't just enhance your physical capabilities," Kross explained.
+
+"I figured that much," Jon said, looking at the quantum terminal. "The speed. The way I saw them moving. That wasn't just reflex."
+
+"No, it wasn't." Kross gestured to the interface. "The graphene pathways in your neural tissue have integrated with your synaptic network. In essence, we've turned your brain into a quantum co-processor."
+
+Jon frowned. "You're saying I can think faster?"
+
+"Not just faster—differently. Parallel processing. Quantum-level computation. Your brain can now perform operations that would require a supercomputer." Kross's expression was almost hungry. "Let me show you."
 
 A holographic display materialized in front of Jon, showing a complex encryption algorithm. Lines of code scrolled past at impossible speed.
 
-"This is a 4096-bit RSA encryption key," Kross said. "It's protecting a simulated military database. Using conventional computing methods, it would take approximately 300 years to crack. I want you to solve it."
+"This is a 4096-bit RSA encryption key," Kross said. "It's protecting a simulated military database. Using conventional computing methods, it would take approximately 300 years to crack."
+
+Jon stared at the scrolling code. "And you want me to...?"
+
+"Crack it," Kross said simply. "Right now."
+
+"That's impossible."
+
+"Is it? Try."
 
 Jon stared at the code. At first, it was just noise—meaningless strings of numbers and symbols. But then something clicked. The hum in his head changed pitch, and suddenly he could see the patterns. The mathematics unfolded in his mind like origami in reverse, revealing structures and relationships that had been hidden.
 
@@ -242,6 +258,14 @@ Jon pulled back from the interface, his mind reeling. He'd just cracked military
 
 "Because you can," Kross said. "You're not just a soldier anymore, Jon. You're a living supercomputer wrapped in human flesh."
 
+Jon looked at his hands. They were steady, but his thoughts weren't. He'd been a soldier. An operator. A man who relied on training, instinct, and brotherhood. Now he was something that could think faster than any human had a right to think.
+
+"What if I don't want to be a supercomputer?" he asked quietly.
+
+Kross's expression shifted, became almost gentle. "Then you'd be lying to yourself. Look at what you just did. You solved a problem that shouldn't be solvable. You transcended human limitations. That doesn't frighten you—it thrills you. I can see it in your eyes."
+
+And he was right. God help him, Kross was right.
+
 The thought should have been disturbing. Instead, it felt like revelation. With processing power like this, Jon could plan operations with perfect precision. He could analyze battlefield conditions in real-time. He could save lives by being smarter than any threat.
 
 *Think of all the lives I can save.*
@@ -256,13 +280,21 @@ But the hum whispered something else.
 
 The final test was the one Jon had been dreading.
 
-They brought him back to the main range and positioned him in front of a ballistic gel wall. Twenty yards away, mounted on a tripod, was a Barrett M82 anti-materiel rifle—a .50 caliber weapon designed to punch through armored vehicles.
+Back in the main range, he stood looking at the setup: ballistic gel wall behind him, targeting lasers, and twenty yards away, mounted on a tripod, a Barrett M82 anti-materiel rifle. He'd seen what .50 caliber rounds did to human bodies. Seen insurgents torn in half. Seen armored vehicles with fist-sized holes punched through their plating.
 
-"We need to test your resistance to kinetic trauma," Kross said, his voice clinical. "Specifically, we need to know if the Creep-6 lattice can withstand high-velocity impacts."
+"We need to test your resistance to kinetic trauma," Kross said from the observation booth, his voice clinical through the speakers.
 
-"You're going to shoot me," Jon said flatly.
+Jon stared at the massive rifle. "You're going to shoot me."
 
-"We're going to shoot at you," Kross corrected. "If the lattice performs as designed, you'll be fine. If it doesn't..." He shrugged. "Well, the lattice is self-healing. You'll regenerate."
+"We're going to shoot at you," Kross corrected. "There's a difference."
+
+"Is there?" Jon looked up at the observation booth. "What if the lattice doesn't work? What if that round punches right through me?"
+
+A pause. Then Kross's voice, smooth and unconcerned: "The lattice is self-healing. Even catastrophic damage can be regenerated, given time. But I don't think that will be necessary. Subject Four survived three .50 caliber impacts before... complications arose."
+
+Jon's blood went cold. "Complications?"
+
+"Nothing you need to worry about. Your lattice integration is far superior." Kross's tone shifted, became almost coaxing. "Jon, you've punched through concrete. You've survived being crushed by 23,000 pounds of force. Your body is not what it was. Trust the lattice. Trust what you've become."
 
 "And if I don't want to do this?"
 
@@ -342,7 +374,7 @@ A god.
 
 ---
 
-After the tests, they let Jon shower in a decontamination facility adjacent to the range. He stood under scalding water, watching it sluice over his skin, over the lattice that had turned him into something more than human.
+After the tests, they let Jon shower in a decontamination facility adjacent to the range. He stood under scalding water—water that should have burned but only felt warm against his enhanced skin—watching it sluice over the lattice patterns that had turned him into something more than human.
 
 His hands were steady. His breathing was calm. But inside, his thoughts were a maelstrom.
 
@@ -350,9 +382,13 @@ He'd enjoyed it.
 
 The tests, the violence, the sensation of perfect, overwhelming power—he'd enjoyed all of it.
 
-The moment when he'd punched through solid concrete. The four seconds when he'd dismantled twelve armed men. The electric thrill when bullets had bounced off his skin.
+The moment when he'd punched through solid concrete. The 1.4 seconds when he'd dismantled twelve armed men with surgical precision. The electric thrill when bullets had bounced off his skin like pebbles off a tank.
 
-All of it had felt good. Not just satisfying, but deeply, fundamentally pleasurable in a way that scared him.
+All of it had felt good. Not just satisfying, but deeply, fundamentally pleasurable in a way that terrified him.
+
+Jon Rivian had been a soldier for over a decade. He'd been in firefights, close-quarters combat, situations where violence was necessary. But he'd never enjoyed it. Violence had been a tool, sometimes a necessary evil, but never something that felt good.
+
+Until now.
 
 *The lattice has subroutines. It will push you toward violent solutions because violence is efficient.*
 
@@ -360,21 +396,29 @@ Dr. Martinez's warning echoed in his mind.
 
 *The moment violence starts feeling good—that's when you lose yourself.*
 
-But maybe he didn't have to lose himself. Maybe he could control it. Maybe he could use this power, this gift, for the right reasons. He could be the hero he'd always been, just... enhanced. Better equipped to save lives.
+But maybe he didn't have to lose himself. Maybe he could control it. Maybe he could use this power, this gift, for the right reasons. He could be the hero he'd always been, just... enhanced. Better equipped to save lives. Stronger. Faster. Smarter.
+
+Better.
 
 *Think of all the lives I can save.*
 
-The thought felt hollow now, like words repeated too many times.
+The thought felt hollow now, like words repeated too many times until they lost all meaning.
 
-He turned off the water and stood dripping in the sterile white room, staring at his reflection in the polished steel wall.
+He turned off the water and stood dripping in the sterile white room, staring at his reflection in the polished steel wall. The lattice was visible beneath his skin, hexagonal patterns that caught the light like scales.
 
-Jon "Jet" Rivian stared back, but the eyes were different now. Harder. Hungrier.
+Jon "Jet" Rivian stared back, but the eyes were different now. Harder. Hungrier. Empty of something essential.
 
 *Who are you?* he asked the reflection.
+
+The man who saved Pops? The do-gooder who brought everyone home?
+
+Or something new? Something that punched through walls and laughed at bullets and felt pleasure when it hurt people?
 
 The reflection didn't answer.
 
 But somewhere deep in his chest, where the lattice hummed its constant song, something was smiling.
+
+And Jon realized with cold certainty: he wasn't sure which answer scared him more.
 
 ---
 
@@ -426,6 +470,8 @@ The door slid shut, leaving Jon alone with the mission briefing and the hum in h
 
 He sat on the bed and opened the file.
 
+The words appeared on the screen, clinical and cold:
+
 **MISSION DESIGNATE: SENTINEL**
 **TARGET: Dr. Mira Koval**
 **CLASSIFICATION: Traitor / Enemy of the State**
@@ -433,25 +479,73 @@ He sat on the bed and opened the file.
 
 Jon's blood went cold.
 
-Dr. Mira Koval. The name meant nothing to him, but the file included a photo and a dossier. She was in her late thirties, with sharp features and intelligent eyes. A scientist. A civilian.
+He read the line again. Then a third time, hoping the words would change.
 
-According to the briefing, she'd stolen classified MOSAIK research data and was planning to sell it to foreign interests. She was a threat to national security. A traitor who needed to be eliminated.
+They didn't.
 
-Jon's first mission wasn't a rescue.
+*Terminate with extreme prejudice.*
+
+Not capture. Not extract. Not rescue.
+
+Kill.
+
+Dr. Mira Koval. The name meant nothing to him, but the file included a photo and a detailed dossier. She was in her late thirties, with sharp features and intelligent eyes behind wire-rimmed glasses. Dark hair pulled back in a practical ponytail. A scientist. A civilian.
+
+The photo showed her in a laboratory, looking at something off-camera, a slight smile on her face. She looked... normal. Like someone's colleague. Someone's friend. Maybe someone's mother.
+
+According to the briefing, she'd been a lead researcher on Project MOSAIK. Three weeks ago, she'd stolen classified research data—detailed specifications of the Creep-6 lattice, integration protocols, weaknesses in the control system. She was planning to sell it to foreign interests: China, Russia, maybe the Consortium. She was a threat to national security. A traitor who needed to be eliminated before she could auction off America's most classified weapon program to the highest bidder.
+
+Jon stared at the photo. His first thought—his soldier's thought—was: *If she's selling weapon secrets to our enemies, she's a legitimate target.*
+
+His second thought was: *I'm going to kill someone who isn't shooting back.*
+
+Every mission he'd ever run had been against armed combatants. Insurgents. Enemy soldiers. People who'd made the same choice he had: to pick up a weapon and enter the battlefield. He'd never killed a civilian. Never been ordered to.
+
+This was different.
+
+This was murder.
+
+The word sat in his mind like a stone, cold and undeniable.
+
+Jon scrolled through the briefing. Location: Amsterdam. Method: Covert termination, no witnesses. Disposal: Make it look like an accident or a mugging gone wrong. Extraction: Solo exfiltration via predetermined routes.
+
+His first mission wasn't a rescue.
 
 It was an assassination.
 
-He stared at the photo of Dr. Mira Koval and remembered Kross's words.
+He looked at the photo again. Dr. Mira Koval, smiling in her laboratory, unaware that somewhere in a secret facility, a dead man was being ordered to kill her.
+
+Jon thought of all the times he'd defied orders to save people. Pops, pinned by rebar with a Scorch strike incoming. The kid in Krakow, crying for his mother. All the men he'd brought home when command had written them off as acceptable losses.
+
+*He brings them home.*
+
+And now? Now he was being sent to do the opposite. To take someone out of the world permanently. To end a life because Kross said so.
 
 *You're a weapon. And you will serve.*
 
-The hum in his chest intensified, eager, anticipating.
+The hum in his chest intensified, eager, anticipating. The lattice wanted this. It was designed for this. Violence was efficiency, and killing was the most efficient solution to the problem Dr. Mira Koval represented.
+
+The thought made Jon sick.
+
+But underneath the sickness, underneath the horror at what he was being asked to do, was something else. Something quieter, darker.
+
+Curiosity.
+
+What would it feel like? To use all this power—this strength, this speed, this invincibility—not against armed contractors in a controlled test, but against a real target? Someone who could run, who could scream, who could beg?
+
+The thought should have disgusted him.
+
+Instead, the hum purred.
 
 And Jon Rivian, who had been the best soldier his country had ever produced, who had believed with every fiber of his being that he was a hero—
 
-Jon Rivian felt the first crack in his foundation.
+Jon Rivian felt the first real crack in his foundation.
 
-And wondered if he'd ever be able to put himself back together.
+A fracture line running straight through the center of who he'd been and what he was becoming.
+
+And he wondered, staring at Dr. Mira Koval's smiling photo in the sterile glow of the tablet, if he'd ever be able to put himself back together.
+
+Or if he even wanted to.
 
 ---
 
