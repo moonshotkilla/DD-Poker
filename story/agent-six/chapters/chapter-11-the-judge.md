@@ -200,7 +200,7 @@ Jon crossed the atrium slowly, closing the distance. Kross didn't back away. Did
 
 Jon was close now. Ten feet away. Close enough to smell Kross's cologne, see the perfectly tied knot of his tie.
 
-"I met five people before you," Jon said quietly. "Five subjects who came before me. Four of them died in agony. The fifth became Agent Zero—a nightmare you kept in cryogenic suspension because even you couldn't control what you'd created."
+"I met four people before you," Jon said quietly. "Four subjects who came before me. Three of them died or went insane. The fourth became Agent Zero—a nightmare you kept in cryogenic suspension because even you couldn't control what you'd created."
 
 "Regrettable losses," Kross said. "But necessary for progress. Science requires sacrifice."
 
