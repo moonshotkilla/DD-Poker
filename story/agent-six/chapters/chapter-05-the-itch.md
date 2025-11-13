@@ -170,6 +170,14 @@ The itch howled, but Jon's finger hesitated on the trigger. "What?"
 
 She gestured to the holographic displays. "That footage shows Kross deliberately sabotaging your HALO rig. He murdered you, Agent Six. Just like he murdered the four subjects before you. You think you're a success? You're just the one who survived long enough to be useful."
 
+"Four subjects?"
+
+"Five iterations. You're Creep-6, the sixth version. The first subject was a physicist named Matteo Rask—Creep-1, brilliant man who volunteered thinking he was helping develop medical nanites. Kross turned him into a monster. Subject Two was Creep-3—died during integration when the neural enhancement caused seizures. Subject Three was Creep-4, achieved stable integration but developed severe psychological fractures. Subject Four was Creep-5—went rogue and had to be hunted down in São Paulo." Her expression was haunted. "DARPA shut the program down after that. Called it too dangerous, too unstable. But Kross found new backers. People who don't answer to congressional oversight. People with enough money and power to build facilities like this in secret."
+
+Jon's mind was processing fast. "What was Creep-2?"
+
+"Kross himself." Mira's voice was bitter. "He tested a medical variant on himself—regenerative nanites to fight his cancer. That was before the program went full military. Before everything went wrong."
+
 Jon drew the pistol. It felt heavy in his hand, heavier than it should. The itch was howling, demanding, insistent.
 
 *Kill her. Now. She's a threat. She's irrelevant. She's in the way.*
