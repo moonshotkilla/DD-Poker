@@ -144,17 +144,17 @@ The itch roared, a tsunami of demanding pressure that made his vision blur.
 
 Jon stepped into the room.
 
-Mira Koval spun in her chair, her hand reaching for something—a weapon? A comm device?
+Mira Koval spun in her chair, and her reaction wasn't panic. It was precision.
+
+Her hand didn't fumble—it went directly to a small device clipped to her belt. Her eyes assessed him in a microsecond: height, build, movement patterns, threat level. Not the reaction of a terrified scientist. The reaction of someone with training.
 
 "Don't," Jon said, his voice flat and cold.
 
-She froze. Her hand was on a small device clipped to her belt. Her eyes were wide, but she wasn't panicking. She was assessing, calculating.
-
-"You're from MOSAIK," she said. It wasn't a question.
+She froze, but her posture remained controlled. Balanced. Ready. "You're from MOSAIK," she said. It wasn't a question. Her accent was faint—traces of Czech underneath British boarding school polish.
 
 "Dr. Mira Koval," Jon said, the words coming automatically, as if someone else was speaking them. "You're wanted for treason, theft of classified materials, and conspiracy to aid foreign intelligence agencies. I'm authorized to use lethal force."
 
-"Of course you are." Her voice was bitter, resigned. "Which one are you? Six? You must be Six. The others are all dead."
+"Of course you are." Her voice was bitter, but not surprised. "Which one are you? Six? You must be Six. The others are all dead or..." She glanced past him, as if checking for shadows. "...worse than dead."
 
 Jon's hand moved to the pistol holstered at his back. The itch was screaming now, a cacophony of urgency.
 
@@ -162,7 +162,11 @@ Jon's hand moved to the pistol holstered at his back. The itch was screaming now
 
 "You stole classified research," Jon said. His hand wrapped around the pistol grip. "You were going to sell it."
 
-"I took my own research," Mira corrected. "Research that Kross stole from me and weaponized. And I wasn't going to sell it. I was going to expose it."
+"Is that what they told you?" Something flickered across her face—not fear, but something closer to disappointment. "Let me guess: Kross said I was selling to the Chinese? Or maybe the Russians? Funny, considering I used to brief the Director of National Intelligence on foreign nano-weapon threats." She watched his expression. "Did they mention that part in your dossier? That I spent five years in the intelligence community before MIT recruited me for DARPA? No, of course they didn't."
+
+The itch howled, but Jon's finger hesitated on the trigger. "What?"
+
+"I didn't steal classified research, Agent Six. I took my own research—technology I developed to help my sister walk again after a drunk driver put her in a wheelchair when she was sixteen." Her eyes hardened. "Research that Kross stole from me and weaponized. And I wasn't planning to sell it. I was planning to expose what he's doing. What he did to you."
 
 She gestured to the holographic displays. "That footage shows Kross deliberately sabotaging your HALO rig. He murdered you, Agent Six. Just like he murdered the four subjects before you. You think you're a success? You're just the one who survived long enough to be useful."
 
@@ -390,13 +394,13 @@ Then they swam to a different section of canal, pulled themselves out, and disap
 
 They found shelter in an abandoned warehouse near the shipping docks. Jon broke the lock on a side door, and they slipped inside. The space was cavernous, empty except for some rusted machinery and stacks of rotting pallets.
 
-Mira collapsed against a wall, shivering, soaked to the bone.
+Mira collapsed against a wall, shivering, soaked to the bone. Her face had gone pale—too pale—and there was a green tinge around her mouth that spoke of more than just cold.
 
-Jon wasn't cold—his enhanced metabolism had already adjusted—but he could see she was going into shock.
+Jon wasn't cold—his enhanced metabolism had already adjusted—but he could see she was going into shock. Or something close to it.
 
 He found some old tarps, not clean but dry, and wrapped them around her shoulders.
 
-"You saved me," Mira said, her teeth chattering. "You were supposed to kill me, and instead you saved me."
+"You saved me," Mira said, her teeth chattering. One hand pressed protectively against her abdomen, as if steadying herself. "You were supposed to kill me, and instead you saved me."
 
 "I'm a soldier," Jon said. "Not a murderer."
 
@@ -404,13 +408,29 @@ He found some old tarps, not clean but dry, and wrapped them around her shoulder
 
 "Agent Zero attacked us."
 
-"Because Kross sent him. He probably activated Zero's tracking protocol the moment you went off-mission." Mira looked at him, her eyes haunted. "You're a rogue asset now, Jon. They're going to hunt you with everything they have. And they have a lot."
+"Because Kross sent him. He probably activated Zero's tracking protocol the moment you went off-mission." Mira looked at him, her eyes haunted. She took a slow breath, swallowing back what looked like nausea. "You're a rogue asset now, Jon. They're going to hunt you with everything they have. And they have a lot."
 
-Jon sat down across from her, his back against a rusted machine housing. His shoulder was still healing, the lattice working overtime to repair the damage Zero had done.
+Jon sat down across from her, his back against a rusted machine housing. His shoulder was still healing, the lattice working overtime to repair the damage Zero had done. He watched her carefully—the way she was breathing too deliberately, the way her hand kept returning to her stomach.
 
-"Tell me about the Nexus," he said. "You said there's a way to remove the control protocol. Tell me how."
+"Are you hurt?" he asked. "Zero didn't—"
 
-Mira took a shaky breath. "The MOSAIK Nexus is the central server for the entire project. It houses the master code for all the Creep-6 variants, all the research data, all the control protocols. If you can physically access it and upload a root-level override, you can rewrite your own code. Delete the backdoor. Sever Kross's leash."
+"I'm fine." The answer came too quick, too automatic. "Just cold. And the adrenaline crash. I'm not... I'm not built for this kind of thing anymore."
+
+There was weight in that word: *anymore*. As if she'd once been someone who was built for it.
+
+"You said you worked in the intelligence community," Jon said. "Five years?"
+
+"Six, actually. CIA, then ODNI as a technical analyst. Nano-weapons proliferation. I spent most of my time in classified briefing rooms explaining to people why letting China weaponize graphene was a bad idea." She pulled the tarp tighter around her shoulders. "Then my sister's accident happened, and I realized I could do more good building things than analyzing threats. DARPA offered me a position. MIT gave me a lab. I thought I could change the world." A bitter laugh. "I changed it, all right. Just not the way I planned."
+
+"Your sister," Jon said. "You said she's in a wheelchair?"
+
+Mira's expression softened, just slightly. "Elena. She's twenty-six now. Lives in London with our mother. The lattice technology—before Kross weaponized it—was supposed to bridge damaged neural pathways. Let severed spines communicate again. I was six months from human trials when Kross saw the military applications." Her hand tightened on the tarp. "He told me the technology could save soldiers. Prevent paralysis from combat injuries. I believed him. And by the time I realized what he was really building, I was already complicit."
+
+Jon saw it then—the weight she carried. The guilt that mirrored his own.
+
+"Tell me about the Nexus," he said quietly. "You said there's a way to remove the control protocol. Tell me how."
+
+Mira took a shaky breath, steadier now. "The MOSAIK Nexus is the central server for the entire project. It houses the master code for all the Creep-6 variants, all the research data, all the control protocols. If you can physically access it and upload a root-level override, you can rewrite your own code. Delete the backdoor. Sever Kross's leash."
 
 "How do I get in?"
 
