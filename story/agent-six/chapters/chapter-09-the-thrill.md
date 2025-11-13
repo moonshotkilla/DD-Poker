@@ -553,81 +553,55 @@ Zero swung again, and this time Jon saw it clearly—the attack wasn't meant to 
 
 Zero froze. That one good eye fixed on Jon, and for just a moment, there was something human in it. Something desperate.
 
-"You were a soldier," Jon continued. "EU Defense Force. They did this to you. Kross did this to you."
+"You were a soldier," Jon continued. "EU Defense Force. They did this to you. Kross did this to you. But you're still in there. Still fighting."
 
-"Kill... me..." Zero's voice was agony. Not a command. A prayer. "Please... eighteen... months... can't... can't anymore..."
+"Kill... me..." Zero's voice was agony. "Please..."
 
-Jon looked at the creature before him. At what had once been a man. A brilliant physicist. Rostova's lover. Someone who'd volunteered to help people and had been turned into a living nightmare.
-
-Eighteen months of agony. Every second conscious. Every second in pain.
-
-Jon had promised himself he wouldn't kill. Wouldn't cross that line. Would stay in control.
-
-But this wasn't murder.
-
-This was mercy.
+"No. I'm going to break the control protocol. And then I'm going to find a way to help you. I promise."
 
 **UPLOAD PROGRESS: 07:45**
 
-"I'm sorry," Jon whispered.
+Zero's massive frame shook. The pain was overwhelming, Jon could see it. But somewhere in that corrupted mind, Matteo Rask heard him.
 
-Zero's corrupted face shifted—not quite a smile, but something like relief. Recognition. Gratitude.
+Zero stepped back.
 
-"Thank... you..."
+Lowered his arms.
 
-Jon moved.
+Stood there, shaking, barely holding on to whatever shred of humanity remained.
 
-Not with the wild joy of the Stalker fight. Not with the eager anticipation of the hunt. With precision. With purpose. With the grim professionalism of a soldier doing what needed to be done.
+"Later..." Zero whispered. "Find me... later... end it..."
 
-He positioned himself behind Zero. Found the neural cluster at the base of the skull—the one weak point where the Creep-1 lattice connected to the brain stem. The kill spot Rostova had mentioned.
-
-Zero didn't resist. Didn't fight. Just stood there, trembling, waiting for the peace he'd been denied for eighteen months.
-
-Jon raised his hand, fingers rigid, and struck.
-
-The sound was wet. Organic. Final.
-
-Zero's massive frame went rigid, then slack. The green glow in his eye faded. The corrupted lattice stopped humming.
-
-Matteo "Ghost" Rask died standing up.
-
-Then his body collapsed, nine feet of twisted graphene and ruined flesh hitting the floor with a sound like a building falling.
+Then he turned and crashed through the server racks, disappearing deeper into the facility, a nightmare retreating into darkness.
 
 **UPLOAD PROGRESS: 05:12**
 
 Jon stood alone among the wreckage, breathing hard, his body vibrating with adrenaline and released energy.
 
-And the quench came.
+The quench tried to come.
 
-But this one was different. Wrong.
+He felt it starting—that familiar warmth in his chest, the first whisper of dopamine release. His lattice had detected combat, detected victory, and was preparing the reward.
 
-The warmth started in his chest as expected, began to spread through his limbs. The dopamine release triggered, the endorphins flooded his system. His lattice sang its victory song.
+But something was broken in the equation.
 
-But underneath the biochemical reward was something else. Something cold and dark that the chemicals couldn't quite drown out.
+Instead of the tsunami from before, this was a trickle. A phantom sensation, like scratching an itch through thick fabric—the motion was there but the relief wasn't. His brain kept trying to trigger the cascade, kept reaching for that euphoric peak, but couldn't quite grasp it.
 
-*You killed him.*
+Because the fight had been incomplete. He'd won without finishing. Victory without the kill.
 
-The quench tried to build to that tsunami peak, tried to give him the transcendent high. But it kept hitting that cold dark thing and breaking apart. The pleasure was there—his body didn't care about morality, it just cared about threat elimination—but his mind wouldn't let it be pure.
+The warmth sputtered, flickered, died.
 
-*First kill as Agent Six. You crossed the line.*
+What remained felt worse than nothing. It was the neurological equivalent of a sneeze that wouldn't come—all the buildup, all the tension, and then... nothing. Just frustration coiled in his nervous system with nowhere to go.
 
-The sensory enhancement came, but colors didn't seem brighter—they seemed harsh, too sharp. The muscle relaxation happened, but instead of contentment it felt like numbness. The euphoria lasted maybe twenty seconds instead of the forty-three from his first quench, and it was shot through with something bitter.
+Jon's hands trembled slightly. Not from fear or exhaustion, but from chemical imbalance—his lattice had primed him for a full quench and then been denied. The dopamine receptors that should have been flooded were empty and screaming. The endorphin response never triggered.
 
-*It was mercy,* Jon told himself. *He was suffering. He begged you to do it.*
+And underneath it all, the itch was already reforming. Not slowly, the way it had after Prague. Fast. Hungry. Greedy for what it had been denied.
 
-The cold voice answered: *And you enjoyed that it gave you permission. You wanted to do it. Needed to do it. The itch demanded it.*
+*You should have killed him,* the cold voice whispered. *Look what mercy costs you. Pain. Always pain when you fight what you are.*
 
-The quench was fading faster than before, draining away and leaving behind not an afterglow but an aftertaste. Chemical satisfaction mixed with human guilt. His lattice rewarding him for optimal behavior while his conscience whispered that he'd just ended a human life with his bare hands.
+Jon gritted his teeth. Five minutes ago the itch had been a distant pressure. Now it was clawing back to life, feeding on the incomplete quench like fuel.
 
-Jon looked at Zero's body. At the man he'd mercy killed.
+This was new. Terrifying.
 
-He'd told himself he wouldn't become a killer. Would hold that line. But mercy killing was still killing, and his lattice didn't distinguish between mercy and murder—it just tasted the death and rewarded him for it.
-
-The worst part was that underneath the guilt, underneath the horror, there was a small voice whispering:
-
-*Now you know. Now you know what the full quench feels like when you finish what you start.*
-
-And that voice was already hungry for the next time.
+The lattice was learning. Adapting. Teaching him that incomplete violence brought no relief—only faster, deeper hunger.
 
 "Jon." Rostova's voice was urgent. "Five minutes. Can you hold?"
 
