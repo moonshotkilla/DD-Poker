@@ -272,11 +272,25 @@ Jon stood among the six incapacitated enhanced operators, breathing hard, his bo
 
 And the quench hit.
 
-It was the strongest yet. A full-body wave of euphoria that made him gasp. Every nerve ending lit up with pleasure. His brain flooded with chemicals that made the world seem bright and clear and perfect.
+This one was different from Prague. Bigger. More complete.
 
-He'd won. He'd fought six enhanced operators and dismantled them in less than two minutes. And it had felt *glorious*.
+It started as warmth in his chest where the lattice was densest, then exploded outward like a shockwave. His muscles went liquid. His vision sharpened to impossible clarity—he could see individual dust particles floating in the emergency lighting, could count the fibers in the Stalker's tactical vest fifteen feet away.
 
-Jon threw his head back and laughed.
+The euphoria wasn't a wave. It was a tsunami.
+
+His nervous system lit up in cascading pulses—pleasure centers firing in sequence like dominoes falling. First the primal reward circuits deep in his brain stem, flooding him with raw, animal satisfaction. Then higher functions: the dopamine surge that made colors seem brighter, sounds crisper. Finally the endorphins, wrapping everything in cotton and telling him that this—this violence, this domination—was *right*.
+
+He'd won. He'd fought six enhanced operators who were supposed to be dangerous, supposed to be threats, and he'd dismantled them in less than two minutes like they were children.
+
+And it had felt *glorious*.
+
+Jon threw his head back and laughed—not the dark, bitter laugh from Prague, but something genuine. Almost joyful.
+
+For fifteen perfect seconds, he felt no pain, no conflict, no guilt. Just pure, distilled satisfaction.
+
+Then it began to fade. Not all at once, but in layers. The sharpened vision dulled. The warmth receded. The chemicals drained away, leaving behind a pleasant afterglow—a sense of accomplishment that felt earned, deserved.
+
+He'd needed that. The five-day itch had been agony. This was the release he'd been craving.
 
 ---
 
@@ -563,11 +577,31 @@ Then he turned and walked away, disappearing into the shattered facility, a nigh
 
 Jon stood alone among the wreckage, breathing hard, his body vibrating with adrenaline and released energy.
 
-The quench was there, but muted. Incomplete. He'd won the fight without finishing it, without taking the kill he'd craved.
+The quench tried to come.
 
-And it felt... wrong. Unsatisfying.
+He felt it starting—that familiar warmth in his chest, the first whisper of dopamine release. His lattice had detected combat, detected victory, and was preparing the reward.
 
-The itch was already building again, hungry, demanding.
+But something was broken in the equation.
+
+Instead of the tsunami from before, this was a trickle. A phantom sensation, like scratching an itch through thick fabric—the motion was there but the relief wasn't. His brain kept trying to trigger the cascade, kept reaching for that euphoric peak, but couldn't quite grasp it.
+
+Because the fight had been incomplete. He'd won without finishing. Victory without the kill.
+
+The warmth sputtered, flickered, died.
+
+What remained felt worse than nothing. It was the neurological equivalent of a sneeze that wouldn't come—all the buildup, all the tension, and then... nothing. Just frustration coiled in his nervous system with nowhere to go.
+
+Jon's hands trembled slightly. Not from fear or exhaustion, but from chemical imbalance—his lattice had primed him for a full quench and then been denied. The dopamine receptors that should have been flooded were empty and screaming. The endorphin response never triggered.
+
+And underneath it all, the itch was already reforming. Not slowly, the way it had after Prague. Fast. Hungry. Greedy for what it had been denied.
+
+*You should have killed him,* the cold voice whispered. *Look what mercy costs you. Pain. Always pain when you fight what you are.*
+
+Jon gritted his teeth. Five minutes ago the itch had been a distant pressure. Now it was clawing back to life, feeding on the incomplete quench like fuel.
+
+This was new. Terrifying.
+
+The lattice was learning. Adapting. Teaching him that incomplete violence brought no relief—only faster, deeper hunger.
 
 "Jon." Rostova's voice was urgent. "Five minutes. Can you hold?"
 
@@ -587,9 +621,27 @@ This time, he didn't hold back quite as much. Bones broke. Bodies flew. The corr
 
 But he didn't kill. Held to that line, even as the itch screamed for permanent solutions.
 
+The fight was brutal, efficient. Three minutes of controlled violence. Twelve trained operators reduced to groaning casualties.
+
+And when it was over, when Jon stood among the broken bodies, the quench came again.
+
+But it was weaker than before.
+
+The warmth was there, the dopamine release triggered, but it felt... diluted. Like drinking watered-down whiskey after tasting the real thing. His body went through the motions—the muscle relaxation, the sensory sharpening, the brief spike of satisfaction—but the intensity was maybe sixty percent of what he'd felt after the Stalkers.
+
+Twelve guards should have given him more relief than six enhanced operators.
+
+But the lattice was adapting. Raising the bar. What would have been a complete quench a week ago was now barely enough to take the edge off.
+
+*Tolerance,* Jon realized with cold dread. *I'm building tolerance. Just like any other addiction.*
+
+The pleasant afterglow he'd felt earlier was absent. Instead, there was just a brief pause in the itch's pressure—a momentary reprieve before it began creeping back.
+
 **UPLOAD PROGRESS: 01:15**
 
 Jon stood at the Nexus terminal, surrounded by unconscious guards, his body covered in sweat and blood—most of it not his own.
+
+His hands weren't shaking anymore. The incomplete quench from Zero had been smoothed over by this second dose. But he could already feel the itch rebuilding in his chest, patient and inevitable as a tide.
 
 The upload progress bar ticked forward.
 
