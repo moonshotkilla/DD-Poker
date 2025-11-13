@@ -110,15 +110,25 @@ Rostova's expression was grim. "Then Kross keeps his leash on you forever."
 
 The itch was building again.
 
-It had been four days since the Dresden data center, four days since Jon had felt the quench. The pressure was becoming unbearable—a constant, screaming static under his skin that made it hard to think, hard to focus.
+**Day One**: Restlessness. Jon couldn't sit still. His fingers drummed against tables, his legs bounced when he tried to rest. A low-grade discomfort, like wearing clothes that didn't quite fit.
 
-He tried to manage it. Went for runs through Prague at night, pushing his enhanced body to its limits. Did bodyweight exercises until his muscles burned. Meditated using techniques his Delta instructors had taught him.
+**Day Two**: The discomfort became an actual itch—not metaphorical, but physical. It started in his chest where the lattice was densest, then spread outward like a rash crawling beneath his skin. He tried to ignore it. Went for a run through Prague at 0300 hours, pushing his enhanced body until his muscles screamed. The endorphins helped for maybe thirty minutes. Then the itch came back, worse than before.
 
-Nothing worked.
+**Day Three**: Pain. Real, physical pain. His nerve endings felt raw, exposed, like someone had filed away a protective layer and left him hypersensitive to everything. The fabric of his shirt was sandpaper. The sound of Rostova's keyboard was nails on a chalkboard. He tried meditation—box breathing, body scans, the techniques his Delta instructors had drilled into him. He made it fifteen minutes before the pain spiked so hard he had to bite his lip to keep from screaming.
 
-The itch wanted one thing, and one thing only: violence.
+Mira suggested cold showers. He tried. Stood under ice-cold water for twenty minutes. The shock to his system provided momentary relief, but the itch adapted, routing around the distraction like water flowing around a stone.
 
-On the fifth day, Jon woke at 0400 hours drenched in sweat, his hands clenched into fists so tight his fingernails had drawn blood from his palms. The lattice had healed the damage instantly, but the phantom sensation remained.
+**Day Four**: The hallucinations started.
+
+Not full-blown visual hallucinations—not yet—but sensory distortions. Movement in his peripheral vision that wasn't there. Phantom touches, like someone's hand on his shoulder when the room was empty. His enhanced hearing picked up heartbeats, and his brain automatically started calculating threat responses: distance, speed, optimal strike points.
+
+He tried bodyweight exercises. Push-ups until his arms gave out. Pull-ups until his lats burned. Planks until his core trembled. The physical exhaustion helped him sleep for three hours. When he woke, the itch was waiting, patient and hungry.
+
+**Day Five**: Jon woke at 0400 hours drenched in sweat, his hands clenched into fists so tight his fingernails had drawn blood from his palms. The lattice had healed the damage instantly, but the phantom sensation remained—ghost pain in tissue that was already whole.
+
+The itch wasn't a metaphor anymore. It was a living thing inside him, screaming, demanding, insatiable. His quantum brain kept running combat scenarios involuntarily: Rostova's carotid artery, 2.3 seconds. Mira's windpipe, 1.7 seconds. The landlord downstairs, 4.1 seconds.
+
+He hated that he was calculating. Hated that part of him was measuring and planning even as the rest of him recoiled in horror.
 
 He sat up, breathing hard.
 
