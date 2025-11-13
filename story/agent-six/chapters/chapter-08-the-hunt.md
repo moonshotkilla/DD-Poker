@@ -12,9 +12,25 @@ Mira raised an eyebrow. "Paranoid much?"
 
 "You've been on the run for three days," Rostova said, settling into her own chair—a high-backed office throne that looked absurdly out of place in the dingy apartment. "I've been running for eighteen months. Paranoia is the only reason I'm still breathing."
 
-She pulled up a holographic interface, and suddenly the cramped apartment was filled with floating screens—medical scans, quantum equations, schematics of the human nervous system overlaid with glowing lattice patterns.
+She pulled up a holographic interface, and suddenly the cramped apartment was filled with floating screens—medical scans, quantum equations, schematics of the human nervous system overlaid with glowing lattice patterns. Jon noticed that one screen, off to the side, showed a photo. A man in EU Defense Force uniform. Strong features. Proud bearing. Smiling.
 
-"Now," Rostova said, her Russian accent thickening as she fell into lecture mode, "show me everything. The control protocol activation, the behavioral subroutines, the itch, the quench—all of it. I need to understand exactly what Kross did to you."
+Rostova caught him looking and quickly minimized the image. But not before Jon recognized the face.
+
+Matteo Rask. Agent Zero.
+
+"You knew him," Jon said quietly. "Before."
+
+Rostova's hand trembled slightly as she pulled up another interface. "Matteo and I worked together on the initial Creep-1 trials. He was the theoretical physicist I brought in from MIT to help model the quantum-coherence framework. I was the field researcher." Her accent thickened, emotion bleeding through. "We were... colleagues. Then friends. Then something more."
+
+Mira's expression softened with understanding.
+
+"He volunteered for Subject One because he believed in the technology. In what it could do." Rostova's voice went hard. "I should have stopped him. Should have seen what Kross was really planning. But I was so focused on the science, on the breakthrough, I didn't ask the right questions. By the time I realized Kross had weaponized my quantum framework, Matteo was already... changing."
+
+"That's why you're helping us," Jon said. "Not just to stop Kross. To make it right."
+
+"I can't make it right. Matteo is gone. What he's become—" She stopped, took a breath. "I tried to extract him three months ago. Broke into the Nevada facility, got as far as the cryo-storage where they keep him. He was awake. Conscious. And he begged me to kill him." Her eyes glistened. "I couldn't do it. I ran. Left him there, still suffering. So yes, Agent Six, I'm helping you. Because I failed Matteo. And maybe if I can help you break free, it'll mean his suffering wasn't completely meaningless."
+
+"Now," Rostova said, her Russian accent thickening as she fell back into professional mode, a shield against the pain, "show me everything. The control protocol activation, the behavioral subroutines, the itch, the quench—all of it. I need to understand exactly what Kross did to you so I can make sure you don't end up like Matteo."
 
 For the next two hours, Jon and Mira talked. They described Amsterdam, the control protocol seizing Jon's body like a puppet. The parking garage in Amsterdam, the euphoric quench that followed violence. The Dresden data center, where Jon had come within seconds of strangling a civilian to death.
 
