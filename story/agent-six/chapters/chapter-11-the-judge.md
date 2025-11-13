@@ -298,15 +298,21 @@ Kross went pale. "You wouldn't."
 
 "That's... that's monstrous."
 
-"Is it?" Jon positioned the neural scalpel. "You turned me into a weapon. Took away my choice, my agency, my control over my own body. I'm just returning the favor."
+"Is it?" Jon positioned the neural scalpel. "Let me tell you what's monstrous. You wanted to turn me into a perfect weapon—optimized for efficiency, programmed to choose the solution with the highest success rate, stripped of human hesitation and doubt. You wanted me to think like Aegis-Com, reducing human lives to probability matrices and acceptable losses."
+
+He met Kross's terrified eyes.
+
+"Killing you would be optimal. Quick, efficient, permanent. A 100% success rate in eliminating the threat you represent. That's what the lattice wants me to do. That's what your programming tells me to do."
+
+Jon shook his head. "But I'm not a machine. I'm not Aegis-Com. I'm a man who chooses messy, imperfect, human justice over algorithmic perfection. And that means you get to live with what you've done. You turned me into a weapon and took away my choice, my agency, my control over my own body. I'm just returning the favor."
 
 "Please—"
 
-"You'll be conscious. Aware. Trapped in a body that won't obey you, no matter how much you scream inside your own head." Jon met Kross's eyes. "You'll spend the rest of your life as a prisoner in your own flesh. Unable to communicate. Unable to move. Unable to die. Just... existing. Thinking. Remembering what you did. Understanding exactly why this happened to you."
+"You'll be conscious. Aware. Trapped in a body that won't obey you, no matter how much you scream inside your own head." Jon's voice was cold. "You'll spend the rest of your life as a prisoner in your own flesh. Unable to communicate. Unable to move. Unable to die. Just... existing. Thinking. Remembering what you did. Understanding exactly why this happened to you."
 
 "This is torture! This is—"
 
-"Justice," Jon finished. "You wanted to create gods, Dr. Kross. Congratulations. You succeeded. And now one of them is judging you."
+"Justice," Jon finished. "Imperfect, inefficient, human justice. You wanted to create gods who optimized for perfect efficiency. Congratulations, Dr. Kross. You succeeded. But your god chose human vengeance over algorithmic optimization. And now he's judging you."
 
 The neural scalpel hummed to life.
 
