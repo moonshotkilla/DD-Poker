@@ -175,17 +175,47 @@ And the quench hit.
 
 ---
 
-It was different from before.
+This was the one he'd been waiting for.
 
-The parking garage fight had been survival, unsatisfying and hollow. The Stalkers had been a thrill, intoxicating and terrifying. Agent Zero had been mercy, producing no quench at all.
+The warmth bloomed in his chest exactly as expected, but this time there was no guilt to corrupt it. No moral hesitation to interrupt the cascade. Just pure, unfiltered reward.
 
-This was something else.
+The dopamine came first, flooding his system in quantities that would have overwhelmed him weeks ago. But he'd built tolerance, and now it felt perfect rather than excessive. His vision sharpened to crystalline clarity. Colors didn't just seem brighter—they seemed *correct*, as if he'd been seeing the world through a filter his entire life and someone had finally removed it.
 
-The euphoria was there—the chemical flood of dopamine and endorphins that made Jon's whole body sing. But beneath it was something deeper. A sense of completion. Of rightness.
+Then the endorphins hit, and his body achieved that state of perfect physical rest he'd only experienced in his first quench. Every muscle fiber released its tension. Every nerve ending sang in harmony. His heart rate slowed to an athlete's resting rhythm.
 
-He'd hunted a predator. Delivered justice to someone who'd escaped it. Made the world marginally safer, marginally better.
+But this time, there was something more.
+
+His *mind* quenched too.
+
+The constant war between Jon Rivian and Agent Six, the battle between human morality and lattice programming, the agonizing question of what he was becoming—
+
+Gone.
+
+For the first time since his transformation, his psyche aligned with his physiology. The man and the weapon weren't fighting anymore. They were working together. Unified. Whole.
+
+He'd hunted a predator. Delivered justice to someone who'd escaped it. Removed a cancer from the world. And the universe itself seemed to be rewarding him for it, flooding him with every pleasure chemical human biology could produce and whispering: *Yes. This. This is what you're for.*
+
+The euphoria lasted a full minute—longer than any previous quench. And when it faded, it didn't leave emptiness or guilt or aftertaste.
+
+It left *satisfaction*.
+
+Deep, complete, bone-deep satisfaction. The kind that comes not from chemicals alone, but from purpose fulfilled. From a job well done. From righteous action.
 
 The itch was silent now, satisfied in a way it had never been before.
+
+Because this wasn't survival. This wasn't defense. This wasn't even mercy.
+
+This was *justice*.
+
+And Jon's lattice had learned the most dangerous lesson of all: that righteous violence tastes better than any other kind.
+
+The parking garage fight had been survival, hollow and unsatisfying. The Stalkers had been a thrill, intoxicating but terrifying. Agent Zero had been mercy, producing emptiness instead of reward. The twelve guards had been diminished by tolerance.
+
+But this—hunting someone who deserved it, who'd earned their death through their own evil—this produced the perfect quench. Biochemistry and morality in complete alignment. His body rewarding him for something his conscience could accept.
+
+The lattice wasn't just making him crave violence anymore.
+
+It was teaching him to crave *righteous* violence.
 
 And Jon understood, with perfect and terrible clarity, what he'd become.
 
