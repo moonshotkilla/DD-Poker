@@ -230,6 +230,22 @@ Jon's eyes narrowed. "So this is about your daughter?"
 
 "I decided to prove it works! If the military sees what the Creep technology can do—make soldiers unkillable, unstoppable—then the funding comes. And once we have funding, once we perfect the integration, we can use it for everything else. For healing. For saving lives."
 
+"You mean once your backers see a return on their investment."
+
+Kross's expression shifted—just for a moment, surprise flickering across his face. "What do you know about my backers?"
+
+"I know DARPA shut down your original program. I know the DOD wouldn't touch Creep-6 after what happened to the first five subjects. So someone else funded this facility. Someone else bankrolled MOSAIK. Someone with deep enough pockets to build a black site in Nevada and keep it off the books." Jon stepped closer. "Who are they, Dr. Kross? Who do you really work for?"
+
+Kross's jaw tightened. "You don't understand the scope of what we're doing."
+
+"Then explain it to me."
+
+"There are people—powerful people, across multiple governments and corporations—who understand that humanity is at an extinction crossroads. The Pan-Asia European War was just the beginning. Climate collapse. Resource wars. AI proliferation. We're facing threats that nation-states can't handle alone." Kross's voice took on an almost religious fervor. "The Consortium sees what others don't: that the only way to survive the next century is to transcend our limitations. To become more than human."
+
+"The Consortium," Jon repeated. "That's what they call themselves?"
+
+"It's not an official name. It's a network. Philanthropists. Defense contractors. Intelligence agencies. Tech billionaires. People who think in decades and centuries, not election cycles." Kross met his eyes. "MOSAIK isn't just my project, Agent Six. It's the first step in a much larger program. Creep-6 is just the beginning."
+
 "You're rationalizing," Jon said. "You turned people into killing machines and told yourself it was for the greater good."
 
 "As if you're so different." Kross's eyes gleamed, and he pulled back his left sleeve.
@@ -240,9 +256,21 @@ Kross's forearm was covered in hexagonal patterns beneath the skin. Faint, much 
 
 Graphene lattice.
 
-"You think I'd ask others to accept something I wouldn't try myself?" Kross said quietly. "This is Creep-2. Experimental. Unstable. I've been testing it for eight years, since before Sophie died. It's kept me alive longer than I should be—I have stage three pancreatic cancer, Agent Six. Should have killed me five years ago. But the lattice is fighting it. Slowly losing, but fighting."
+"You think I'd ask others to accept something I wouldn't try myself?" Kross said quietly. "This is Creep-2. The second iteration, designed for medical applications before we pivoted to military enhancement. I've been testing it for eight years, since before Sophie died. It's kept me alive longer than I should be—I have stage three pancreatic cancer, Agent Six. Should have killed me five years ago. But the lattice is fighting it. Slowly losing, but fighting."
 
-He rolled his sleeve back down. "I know what I've done to you. I know what it feels like to have something foreign in your body, changing you, controlling you. The difference is, I chose it. And I still believe it's worth the cost."
+He rolled his sleeve back down. "Creep-1 was Rask—too aggressive, parasitic integration that consumed the host. I learned from that failure. Creep-2 is gentler, focused on cellular regeneration rather than enhancement. But it's imperfect—unstable, degrades over time. Creep-3 through 5 were attempts to find the balance. Different subjects, different approaches. Some focused on cognition. Others on healing. One was designed for stealth operations—adaptive camouflage at the cellular level."
+
+Jon's eyes narrowed. "What happened to them?"
+
+"Creep-3 died when the neural enhancement triggered cascading seizures. Creep-4 achieved stable integration but the subject developed psychological fractures—multiple personalities as the lattice created alternate neural pathways. Creep-5..." Kross paused. "Creep-5 was the closest we got before you. Stable. Powerful. But the subject couldn't handle the itch. Went rogue, had to be terminated by a joint CIA-JSOC task force in São Paulo."
+
+"And then you built me."
+
+"Creep-6. The perfect synthesis. We took everything that worked—the stability of 2, the enhancement of 3, the behavioral conditioning from 4, the control protocols developed after 5's failure. You're the masterwork, Agent Six. Everything that came before was just practice."
+
+Jon felt sick. "You're talking about human beings like they're prototypes."
+
+"They were prototypes. Necessary steps in the development process." Kross met his eyes without shame. "And there will be more after you. Creep-7 is already in early development. The Consortium has approved funding for a full production run—fifty units minimum. Your success proved the concept works. Now we scale up."
 
 "Something like a monster."
 
