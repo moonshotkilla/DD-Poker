@@ -184,11 +184,35 @@ Jon's quantum brain ran the scenarios automatically, unbidden.
 
 The math was simple.
 
-The itch was screaming.
+And horrifyingly familiar.
+
+Jon froze on the stairwell, hit by sudden, cold recognition.
+
+He was doing it. He was calculating human lives in terms of probability matrices and acceptable losses. Just like Aegis-Com had done in Warsaw.
+
+*ASSET 'POPS' IS CONSIDERED UNRECOVERABLE. RECOMMEND IMMEDIATE EGRESS.*
+
+The memory was sharp, painful. Aegis-Com had run the numbers and decided Pops was expendable. Three American lives traded for a confirmed kill on a dozen PAC assets. Optimal. Efficient. The AI hadn't cared that Pops was a man with a family, with friends, with a life worth saving.
+
+It had only cared about the math.
+
+And now Jon was doing the same thing. Looking at four security guards—minimum-wage workers who probably had kids, mortgages, dreams—and reducing them to variables in an equation. Threats to be eliminated because elimination was 33% more efficient than the alternative.
+
+The itch was screaming, demanding the efficient solution.
 
 *They're threats. They're in the way. They work for a company that rents to MOSAIK. They're part of the machine. They're fair game.*
 
+"No," Jon whispered.
+
+He'd defied Aegis-Com in Warsaw because he believed humans weren't numbers. Because he believed that sometimes the right choice wasn't the optimal choice. Because he'd looked at a dying man and seen a brother, not an "unrecoverable asset."
+
+If he killed these guards because it raised his success rate by 33%, he'd be no better than the algorithm he'd fought against.
+
+He'd become the very thing he hated—a machine that optimized for efficiency instead of humanity.
+
 Jon took the stairs three at a time, moving toward the ground-floor guard first.
+
+But not to kill him.
 
 The man was young, maybe twenty-five, with a cheap uniform and a flashlight. He was speaking into his radio, reporting the destroyed entrance, asking for police backup.
 
@@ -302,7 +326,15 @@ He didn't answer. The itch was receding now, leaving behind a hollow ache. The q
 
 "Because I was there." Mira grabbed his arm, forced him to look at her. "What if I hadn't been? What if you'd been alone? Would you have stopped?"
 
-Jon pulled away. "I don't know."
+Jon pulled away. He wanted to lie, to reassure her. But she deserved the truth.
+
+"My brain ran the numbers, Mira. Before I even entered the building. Kill them all, 97% success rate. Let them live, 64%. The lattice calculated that killing four people would increase our odds by 33 percent."
+
+He looked at his hands. "In Warsaw, Aegis-Com told me to abandon Pops because saving him wasn't optimal. Three American lives for twelve PAC assets—the math said let him die. I defied it because I believed humans weren't numbers in an equation. But tonight, I almost became that algorithm. I almost killed four security guards because the calculation said it was more efficient."
+
+"But you didn't," Mira said quietly. "You stopped yourself."
+
+"This time. But I had to consciously fight against my own brain to do it. The lattice wanted me to optimize, to choose the efficient solution." Jon's voice was raw. "There's a war happening inside me, Mira. Between the man who saved Pops and the weapon Kross built. And I can feel the man losing."
 
 "That's what scares me." Mira's eyes were haunted. "You're changing, Jon. Every time you give in to the itch, every time you use violence, it gets easier. And you're starting to like it."
 
@@ -312,7 +344,7 @@ Jon pulled away. "I don't know."
 
 Jon's jaw clenched. "We're being hunted by a multi-billion-dollar black-ops organization. Sometimes violence is necessary."
 
-"Necessary is one thing. Enjoying it is another."
+"Necessary is one thing. Enjoying it is another. And thinking like a machine—reducing human lives to probability matrices—that's something else entirely." Her voice softened. "You fought against Aegis-Com because you believed human judgment matters more than algorithmic optimization. Don't let Kross's programming take that away from you."
 
 They stood in silence for a long moment.
 
