@@ -218,11 +218,35 @@ Pride.
 
 "At what cost?"
 
-"Any cost. All costs." Kross's voice rose, passionate now. "Don't you understand, Agent Six? The Pan-Asia European War showed us the future. Humans are obsolete. Drones, AI, autonomous weapons—they're faster, cheaper, more reliable than flesh and blood. The only way humanity survives the next century is if we become something more. Something better. Something like you."
+"Any cost. All costs." Kross's voice rose, passionate now, and Jon saw something flicker across his face—pain, briefly unguarded. "Don't you understand, Agent Six? The Pan-Asia European War showed us the future. Humans are obsolete. Drones, AI, autonomous weapons—they're faster, cheaper, more reliable than flesh and blood. The only way humanity survives the next century is if we become something more. Something better. Something like you."
+
+He took a breath, and for a moment his composure slipped. "My daughter understood that. Sophie. She had osteosarcoma—bone cancer. Stage four. I watched her waste away for eighteen months while the best doctors in the world told me there was nothing they could do. But the Creep technology... if I'd had just two more years, if I'd finished the cellular regeneration protocols, I could have saved her."
+
+Jon's eyes narrowed. "So this is about your daughter?"
+
+"This is about everyone's daughter!" Kross's voice cracked. "Every parent who's watched their child die from a disease we should be able to cure. Every soldier who comes home in pieces because their fragile human body couldn't withstand modern warfare. We have the technology to fix it, Agent Six. The Creep lattice could eliminate cancer, regenerate damaged organs, prevent paralysis. But everyone's too afraid of the military applications to let us help people."
+
+"So you decided to build weapons first."
+
+"I decided to prove it works! If the military sees what the Creep technology can do—make soldiers unkillable, unstoppable—then the funding comes. And once we have funding, once we perfect the integration, we can use it for everything else. For healing. For saving lives."
+
+"You're rationalizing," Jon said. "You turned people into killing machines and told yourself it was for the greater good."
+
+"As if you're so different." Kross's eyes gleamed, and he pulled back his left sleeve.
+
+Jon's breath caught.
+
+Kross's forearm was covered in hexagonal patterns beneath the skin. Faint, much less pronounced than Jon's, but unmistakable.
+
+Graphene lattice.
+
+"You think I'd ask others to accept something I wouldn't try myself?" Kross said quietly. "This is Creep-2. Experimental. Unstable. I've been testing it for eight years, since before Sophie died. It's kept me alive longer than I should be—I have stage three pancreatic cancer, Agent Six. Should have killed me five years ago. But the lattice is fighting it. Slowly losing, but fighting."
+
+He rolled his sleeve back down. "I know what I've done to you. I know what it feels like to have something foreign in your body, changing you, controlling you. The difference is, I chose it. And I still believe it's worth the cost."
 
 "Something like a monster."
 
-"What's the difference between a monster and a god? Perspective. Power. Purpose." Kross stepped closer, his eyes burning with fervor. "You think I'm a villain because I made you crave violence? I gave you focus. Direction. The itch and the quench are gifts, Agent Six. They make you perfect at what you do. They remove hesitation, fear, doubt—all the weaknesses that plague normal humans."
+"What's the difference between a monster and a god? Perspective. Power. Purpose." Kross stepped closer, his eyes burning with fervor—and Jon could see it now, the slight tremor in his hands, the way he moved like a man fighting pain. "You think I'm a villain because I made you crave violence? I gave you focus. Direction. The itch and the quench are gifts, Agent Six. They make you perfect at what you do. They remove hesitation, fear, doubt—all the weaknesses that plague normal humans."
 
 "They make me an addict."
 
