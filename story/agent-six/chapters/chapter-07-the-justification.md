@@ -314,7 +314,35 @@ Mira bent over, hands on her knees, gasping for breath. "Did you... did you get 
 
 "Jon, what the hell happened back there?"
 
-He didn't answer. The itch was receding now, leaving behind a hollow ache. The quench hadn't come—not fully. He'd stopped himself before killing that guard, but it had been close. So close.
+He didn't answer.
+
+The itch wasn't receding. That was the problem.
+
+Jon had expected relief after the fight—three guards incapacitated, threat neutralized, mission accomplished. His lattice should have rewarded him. Should have given him at least a partial quench, enough to ease the pressure.
+
+But nothing came.
+
+His body kept waiting for the dopamine release that never arrived. The warmth that never bloomed in his chest. The cascade of pleasure chemicals that his nervous system had been primed to expect.
+
+Instead, there was just... emptiness. A hollow, aching void where satisfaction should have been.
+
+Worse than emptiness, actually. It was like his nervous system had prepared for a feast and been given nothing. The anticipation had triggered pre-release of certain neurochemicals—adrenaline, cortisol, preparatory compounds—and now they were just sitting there with nowhere to go, making him feel jittery and wrong.
+
+His hands trembled slightly. Not from fear or exhaustion, but from chemical imbalance. The lattice had detected combat, had geared up to reward threat elimination, and then... incomplete. Unfinished.
+
+The itch wasn't receding. It was *reforming*. Faster than before. Angrier than before.
+
+He'd fought but hadn't finished. Had hurt but hadn't killed. And his lattice was punishing him for the restraint like a junkie's body punishing him for only taking half a hit.
+
+Jon's jaw clenched. The hollow ache was rapidly becoming actual pain—a crawling, burning sensation under his skin that made him want to turn around, go back to the data center, find those guards in the hospital, and—
+
+*No.*
+
+But the itch was screaming now. Not building slowly like it had over days. This was immediate, vicious backlash. His body telling him in no uncertain terms that incomplete violence was worse than no violence at all.
+
+He'd stopped himself before killing that guard, but it had been close. So close.
+
+And now he was paying the price for his mercy.
 
 "Those were security guards," Mira continued, her voice rising. "Civilians. They weren't MOSAIK operators. They were just people doing their jobs."
 
