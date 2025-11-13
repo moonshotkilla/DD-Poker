@@ -355,7 +355,33 @@ The itch purred, interested.
 
 "Two weeks. Maybe three."
 
-"Do it. And Rostova?"
+"Do it. And Rostova—the list. How deep does it go? How many targets are we talking about?"
+
+Rostova's expression became unreadable. "Deeper than you want to know. Sokalov and Dragunov are the low-hanging fruit—criminals operating in the open, easy to justify. But Jon, if you keep digging, if you follow the connections far enough..." She paused. "Some of these people connect back to the same network that funded MOSAIK. The Consortium isn't just about building super-soldiers. They have fingers in everything—weapons trafficking, human experimentation, resource extraction in conflict zones."
+
+"Are you saying some of my targets work for the people who made me?"
+
+"I'm saying the world is complicated. The man who funded the torture chamber where Matteo was held also sits on the board of three Fortune 500 companies and advises two governments. The woman who approved Creep-7 production runs a humanitarian foundation that's saved thousands of lives." Rostova met his eyes. "At some point, you're going to have to decide how far you're willing to go. Whether you're hunting monsters, or hunting the people who create monsters."
+
+Jon processed that. "One problem at a time. Right now, Dragunov is the problem."
+
+"Agreed. But Jon—be careful. The deeper you go into this world, the more you'll find connections. And eventually, someone in the Consortium is going to notice that a Creep-6 asset has gone rogue and is working his way up their org chart. When that happens, they won't send contractors or mercenaries."
+
+"What will they send?"
+
+"Something like you. Or worse." She paused. "Kross mentioned Creep-7 before you... dealt with him. If the Consortium already has production authorization, they might have prototypes in testing. And they'll have learned from your rebellion. The next generation won't have the same weaknesses."
+
+Jon felt a cold knot form in his stomach. "You're saying I might have to fight another Agent Six."
+
+"Or fifty of them. That's what production run means." Rostova's voice was grim. "So enjoy hunting war criminals while you can. Because sooner or later, the Consortium will come for you. And when they do, it won't be a hunt. It'll be war."
+
+The words hung in the air.
+
+"Good to know," Jon said finally. "Two weeks on Dragunov?"
+
+"Two weeks."
+
+"And Rostova?"
 
 "Yes?"
 
