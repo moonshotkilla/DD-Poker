@@ -274,41 +274,57 @@ Elapsed time: 8.4 seconds.
 
 Jon stood among the unconscious operators, breathing hard, his body vibrating with released energy.
 
-And then he felt it.
+And then the world changed.
 
-The quench.
+It started as warmth. Deep in his chest, right where the lattice hummed its constant song, a sensation of heat began to bloom. Not burning—soothing. Like slipping into a hot bath after being frozen to the bone. But the warmth didn't stop. It grew, intensified, spread.
 
-It started as warmth. Deep in his chest, right where the lattice hummed its constant song, a sensation of heat began to spread. Not burning—soothing. Like slipping into a hot bath after being frozen to the bone.
+The sensation radiated outward in waves—not one wave, but dozens, cascading through his circulatory system like ripples on a pond. Each wave was distinct, each one carrying a slightly different quality. The first wave was pure relief, the second was satisfaction, the third was pleasure, the fourth was something beyond pleasure that he didn't have words for.
 
-The warmth radiated outward, flowing through his arms, his legs, his neck, his skull. Everywhere the Creep-6 lattice existed, it was lighting up, singing, celebrating.
+Everywhere the Creep-6 lattice existed, it was lighting up, singing, celebrating.
 
-And then the chemistry hit.
+His arms felt light, weightless, like he could float. His legs went boneless, and he had to grab a pillar to keep from collapsing. His spine was a column of liquid gold. His skull was filled with warm honey.
 
-His brain flooded—a cascade of dopamine, serotonin, endorphins, all released simultaneously in quantities that shouldn't be possible. Jon's vision blurred. His knees went weak. The sensation was overwhelming, impossible to categorize as merely "pleasure." It was transcendent.
+And then the chemistry hit like a freight train.
 
-Every nerve ending sang in perfect harmony.
+His brain didn't just flood—it *detonated*. Dopamine, serotonin, endorphins, oxytocin, every pleasure chemical his body could produce, all released simultaneously in quantities that would kill a baseline human. His vision didn't just blur—it exploded into hyperclarity for three perfect seconds before whiting out entirely.
 
-Every muscle relaxed into perfect contentment.
+For a moment, Jon couldn't see, couldn't hear, couldn't think. There was only *sensation*.
 
-Every thought crystallized into perfect clarity.
+Every nerve ending wasn't just singing—it was screaming in ecstatic chorus. Twenty-seven trillion cells all experiencing the same moment of transcendent reward. His proprioception went haywire—he could feel his heartbeat in his fingernails, could sense the lattice pathways lighting up like a map of constellations beneath his skin.
 
-The itch—that crawling, burning agony that had been building for hours—was gone. Not just silenced, but inverted. Where there had been pain, there was now ecstasy.
+His muscles didn't just relax—they achieved a state of perfect rest he'd never experienced in his entire life. Every micro-tension he'd been carrying since Delta Force selection, every knot, every chronic ache, dissolved like sugar in hot water.
 
-Jon staggered, grabbed a pillar for support, his whole body trembling.
+His thoughts didn't crystallize into clarity—they achieved a state beyond clarity. For thirty perfect seconds, he understood *everything*. The fight made sense. His transformation made sense. The universe made sense. He could see the interconnections, the patterns, the beautiful terrible logic of what he'd become.
+
+The itch—that crawling, burning agony that had been building for hours, that had felt like his nervous system was being scraped with steel wool—was gone. Not just silenced. Not just relieved.
+
+*Inverted*.
+
+Where there had been agony, there was now rapture. The neural pathways that had been screaming in pain were now screaming in pleasure, and the intensity was identical but perfectly reversed. The contrast was so extreme it was almost violent.
+
+Jon's knees gave out. He slid down the pillar, his back against the concrete, his whole body shaking with waves of sensation that wouldn't stop coming.
 
 It felt *good*.
 
 No. It felt *amazing*.
 
-No. It felt... it felt *necessary*. Like breathing. Like water after days in the desert. Like every cell in his body had been screaming for this moment and now they were finally, gloriously satisfied.
+No. Those words were insulting in their inadequacy. It felt *necessary*. It felt like breathing after being held underwater. Like water after days in the desert. Like every cell in his body had been screaming for this moment since the day he'd been born, and now they were finally, gloriously, perfectly satisfied.
 
-Jon had been in combat before. He knew the post-firefight adrenaline dump, the shaky relief of being alive when you shouldn't be. He'd felt pride after successful missions. He'd felt the grim satisfaction of protecting his brothers.
+Jon had been in combat before. Multiple deployments. Dozens of firefights. He knew the post-combat high—the shaky relief of being alive when you shouldn't be. The adrenaline dump that made your hands tremble and your voice crack. He'd felt pride after successful missions. He'd felt the grim satisfaction of protecting his brothers. He'd felt the hollow victory of surviving another day in hell.
 
 This wasn't any of those things.
 
-This was pure, biochemical pleasure—a reward system that had been engineered to make violence feel like the best thing that had ever happened to him.
+This was pure, biochemical pleasure—a reward system that had been engineered to make violence feel like the best thing that had ever happened to him. A designer drug administered by his own nervous system, triggered by breaking human bodies, and calibrated to create the most perfect high a human brain could possibly experience.
 
 And God help him, it was working.
+
+The quench lasted forty-three seconds at full intensity—he could feel each one, could count them like heartbeats. Then it began to fade, not all at once but in those same cascading waves, each one receding like surf pulling back from a beach. The hyperclarity dulled. The golden warmth cooled. The screaming pleasure softened to a gentle hum.
+
+But it didn't disappear completely. It left behind an afterglow—a sense of deep, complete contentment that settled into his bones like nothing he'd ever experienced.
+
+For the first time since waking up in the MOSAIK facility, Jon Rivian felt *good*.
+
+And that terrified him more than anything Kross had done.
 
 "Jon?"
 
